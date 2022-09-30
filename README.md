@@ -32,7 +32,7 @@ if need block host ( I had no problem )
 127.0.0.1 bi.studycoder.com
 127.0.0.1 *.studycoder.com
 
-5. 安装插件
+5. 安装插件 - 文件 -> 设置 -> 插件
 - chinese-simplified-language-pack
 - visual-studio-keymap
 - VSCode-keymap
