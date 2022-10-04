@@ -27,12 +27,12 @@ linux:
 
 if need block host ( I had no problem )
 
-127.0.0.1 account.jetbrains.com
-127.0.0.1 www.jetbrains.com
-127.0.0.1 www-weighted.jetbrains.com
-127.0.0.1 repo.idechajian.com
-127.0.0.1 bs.studycoder.com
-127.0.0.1 bi.studycoder.com
+127.0.0.1 account.jetbrains.com  
+127.0.0.1 www.jetbrains.com  
+127.0.0.1 www-weighted.jetbrains.com  
+127.0.0.1 repo.idechajian.com  
+127.0.0.1 bs.studycoder.com  
+127.0.0.1 bi.studycoder.com  
 127.0.0.1 *.studycoder.com
 
 5. 安装插件 - 文件 -> 设置 -> 插件
