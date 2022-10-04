@@ -2,6 +2,9 @@
 
 # setup/pycharm
 
+- https://www.bilibili.com/video/BV1Z44y1K7k6/?from_spmid=666.19.0.0&vd_source=5820f3b89c1cc8869811271064ffa5a9
+
+
 1. Install JetBrains
 2. For windows : Copy fineagent.jar to Drive C:
 3. Go to install directory product JetBrains ( Example : C:\Program Files\JetBrains\PyCharm 2021.3\bin ) find *.exe.vmoptions ( Example : pycharm64.exe.vmoptions ) open with Notepad++ add end line & Save:
